@@ -1,4 +1,4 @@
-# This scripts takes a list of RSS feeds and 2 strings
+# This script takes a list of RSS feeds and 2 strings
 # and outputs two lists of sentences inside the news from the feeds
 # that contains the strings
 # Usage:
